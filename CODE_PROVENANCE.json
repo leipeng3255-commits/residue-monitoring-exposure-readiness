@@ -1,0 +1,583 @@
+[
+  {
+    "published_path": "archived_code/comparator_v29/compare_decisions_v29.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/comparator_v29/compare_decisions_v29.py",
+    "original_sha256": "ea1c0baebd75fb57342f816d814f97f7483be3d9bec22da1931bfdef3a5a7e85",
+    "published_sha256": "ea1c0baebd75fb57342f816d814f97f7483be3d9bec22da1931bfdef3a5a7e85",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/comparator_v29/prepare_comparator_v29.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/comparator_v29/prepare_comparator_v29.py",
+    "original_sha256": "e7183e87e1b51860d646c5e2614588f234a957f50e87bf63d3edf599559f4af3",
+    "published_sha256": "e7183e87e1b51860d646c5e2614588f234a957f50e87bf63d3edf599559f4af3",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/comparator_v29/replay_comparator_v29.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/comparator_v29/replay_comparator_v29.py",
+    "original_sha256": "9515289fac8218679041ece881ae0a35f2215c1616a8624d55b57c954ec72dc8",
+    "published_sha256": "9515289fac8218679041ece881ae0a35f2215c1616a8624d55b57c954ec72dc8",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/comparator_v29/verify_comparator_v29.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/comparator_v29/verify_comparator_v29.py",
+    "original_sha256": "02638c9ddea7e83caf6b472a38344afb6fc76415d4b37af1d65326e291e2cfab",
+    "published_sha256": "02638c9ddea7e83caf6b472a38344afb6fc76415d4b37af1d65326e291e2cfab",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/current_audit/build_efsa_scientific_exposure_admission.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/current_audit/build_efsa_scientific_exposure_admission.py",
+    "original_sha256": "10964f64652e092569168157782ee23479dacab8470e83552014c91d2930a7bd",
+    "published_sha256": "10964f64652e092569168157782ee23479dacab8470e83552014c91d2930a7bd",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/current_audit/recheck_core_v27.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/current_audit/recheck_core_v27.py",
+    "original_sha256": "3d464840c55bfe815d32ddb898fecd1c7f64ef7302192e5fadea460784430f95",
+    "published_sha256": "3d464840c55bfe815d32ddb898fecd1c7f64ef7302192e5fadea460784430f95",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/current_audit/reconstruct_candidate_frame_v27.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/current_audit/reconstruct_candidate_frame_v27.py",
+    "original_sha256": "c49db99a883c9ff4c7ba6609c072eab22f928e08b61c975052a6c441a7e1a7b3",
+    "published_sha256": "c49db99a883c9ff4c7ba6609c072eab22f928e08b61c975052a6c441a7e1a7b3",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/depth_extension_v31/concurrent_gates_v31.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/depth_extension_v31/concurrent_gates_v31.py",
+    "original_sha256": "e513c54946d296a5e7ec71046758d1307fc3ff358da0c23fa3b71907adb58e71",
+    "published_sha256": "e513c54946d296a5e7ec71046758d1307fc3ff358da0c23fa3b71907adb58e71",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/depth_extension_v31/depth_extension_v31.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/depth_extension_v31/depth_extension_v31.py",
+    "original_sha256": "f468cd9d77eb89ab295f929022eb871b7f66e97034c6f7426db3802b411678fc",
+    "published_sha256": "f468cd9d77eb89ab295f929022eb871b7f66e97034c6f7426db3802b411678fc",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/depth_extension_v31/verify_depth_extension_v31.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/depth_extension_v31/verify_depth_extension_v31.py",
+    "original_sha256": "c7f921e0babf3b97cb4b5dfb7e1a796c8bac79ca83476433b9b631cd61414401",
+    "published_sha256": "c7f921e0babf3b97cb4b5dfb7e1a796c8bac79ca83476433b9b631cd61414401",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/evidence_extension_v22/audit_organic_tomato_pairs_20261008.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/evidence_extension_v22/audit_organic_tomato_pairs_20261008.py",
+    "original_sha256": "59d27cb99666a4fac120dceec08eafce2e341910db2f6601b4e12a9a3589dba0",
+    "published_sha256": "59d27cb99666a4fac120dceec08eafce2e341910db2f6601b4e12a9a3589dba0",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/evidence_extension_v22/build_existing_data_evidence_v22.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/evidence_extension_v22/build_existing_data_evidence_v22.py",
+    "original_sha256": "547e2dc536bdae2c08f470ea79c83534bda3ffcb4a89c0ac7c3bb3ac81146c23",
+    "published_sha256": "547e2dc536bdae2c08f470ea79c83534bda3ffcb4a89c0ac7c3bb3ac81146c23",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/evidence_extension_v22/check_pair_catalogue_v22.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/evidence_extension_v22/check_pair_catalogue_v22.py",
+    "original_sha256": "a7d191e83877b665cdfbb3c53ef224997c859483b57468ece04c8a39dfb81a30",
+    "published_sha256": "a7d191e83877b665cdfbb3c53ef224997c859483b57468ece04c8a39dfb81a30",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/evidence_extension_v22/paired_concentration_figure_v22.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/evidence_extension_v22/paired_concentration_figure_v22.py",
+    "original_sha256": "2b1beb26ea1576fa9c146dd902e9e9193fd3a34ec0cc296715615925ee2d97e8",
+    "published_sha256": "2b1beb26ea1576fa9c146dd902e9e9193fd3a34ec0cc296715615925ee2d97e8",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/evidence_extension_v22/resolve_organic_tomato_pair_gates_20261008.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/evidence_extension_v22/resolve_organic_tomato_pair_gates_20261008.py",
+    "original_sha256": "564f56fdfca227bb6a19136ee28dc7387444ead71b14c5f3850b1b016c4de1fc",
+    "published_sha256": "564f56fdfca227bb6a19136ee28dc7387444ead71b14c5f3850b1b016c4de1fc",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/external_reference_v32/probe_external_reference_v32.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/external_reference_v32/probe_external_reference_v32.py",
+    "original_sha256": "674b745895c31cfe3f16acd19d0ed8e02eb0321515e9984c40c731d06852bd7e",
+    "published_sha256": "674b745895c31cfe3f16acd19d0ed8e02eb0321515e9984c40c731d06852bd7e",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/external_reference_v32/reconcile_fsanz_v32.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/external_reference_v32/reconcile_fsanz_v32.py",
+    "original_sha256": "301f2cdb867e39198932514bccabcdd32324aec34cb4b61bed5cd19853cc5d7b",
+    "published_sha256": "301f2cdb867e39198932514bccabcdd32324aec34cb4b61bed5cd19853cc5d7b",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/external_reference_v32/verify_fsanz_v32.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/external_reference_v32/verify_fsanz_v32.py",
+    "original_sha256": "35bbe02aa47a88e4b5c136b7c4cd9ec85ea8ae3a88d57aca482297fa44d3859c",
+    "published_sha256": "aacadc071bdd7264c39b4f2383570cf170b058664d56e38e0fbed4acf5159d57",
+    "path_redaction_only": true
+  },
+  {
+    "published_path": "archived_code/figure_revision_v30/prepare_figure_revision_v30.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/figure_revision_v30/prepare_figure_revision_v30.py",
+    "original_sha256": "d3233632f6900699365eead6540c425d834ad8e77b57bfd4edc3972bfc3cb264",
+    "published_sha256": "d3233632f6900699365eead6540c425d834ad8e77b57bfd4edc3972bfc3cb264",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/grilling_v36/build_panel_source_registry_v36.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/grilling_v36/build_panel_source_registry_v36.py",
+    "original_sha256": "63056155aa1b11148fc8ce6864756a501c657f6fdd532eadbc825b4ecf003c06",
+    "published_sha256": "63056155aa1b11148fc8ce6864756a501c657f6fdd532eadbc825b4ecf003c06",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/grilling_v36/external_source_challenge_v36.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/grilling_v36/external_source_challenge_v36.py",
+    "original_sha256": "3d7fd8be23639ea14befde4e86c55ec06f013270ac5cd69e604e4cbbd0f17ef2",
+    "published_sha256": "3d7fd8be23639ea14befde4e86c55ec06f013270ac5cd69e604e4cbbd0f17ef2",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/grilling_v36/pdp_full_cutpoint_sensitivity_v36.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/grilling_v36/pdp_full_cutpoint_sensitivity_v36.py",
+    "original_sha256": "4ef004fe94fd14b217b0e8d8acc67d57bd69f74d0304bf6da935d5c8f7eaff47",
+    "published_sha256": "4ef004fe94fd14b217b0e8d8acc67d57bd69f74d0304bf6da935d5c8f7eaff47",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/grilling_v37/protocols_code_reports/external_source_challenge_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/grilling_v37/protocols_code_reports/external_source_challenge_v37.py",
+    "original_sha256": "4e51435dff578e46aed1aee52daf0e03f1c4e70ed48bb80f0e1501432b0358bb",
+    "published_sha256": "4e51435dff578e46aed1aee52daf0e03f1c4e70ed48bb80f0e1501432b0358bb",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/grilling_v37/protocols_code_reports/israel_agriculture_official_source_audit_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/grilling_v37/protocols_code_reports/israel_agriculture_official_source_audit_v37.py",
+    "original_sha256": "a694f1372606ce216fa05cc94ec462de787c2fe57561614a43fb14ec17c5f7f1",
+    "published_sha256": "a694f1372606ce216fa05cc94ec462de787c2fe57561614a43fb14ec17c5f7f1",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/grilling_v37/protocols_code_reports/who_california_source_admission_audit_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/grilling_v37/protocols_code_reports/who_california_source_admission_audit_v37.py",
+    "original_sha256": "972b1c5d0a88e0625ae4874aeae65470cfd40ca5b11a378361e4497b5c0daad6",
+    "published_sha256": "972b1c5d0a88e0625ae4874aeae65470cfd40ca5b11a378361e4497b5c0daad6",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/independent_source_application/audit_independent_pdp_20260928.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/independent_source_application/audit_independent_pdp_20260928.py",
+    "original_sha256": "bdabaacff007c3cff54e540ec22672cda0c7ba79db56f6fc2bdce6055c42a65a",
+    "published_sha256": "bdabaacff007c3cff54e540ec22672cda0c7ba79db56f6fc2bdce6055c42a65a",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/layout_v42/reflow_svg_panels_v42.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/layout_v42/reflow_svg_panels_v42.py",
+    "original_sha256": "fb73d799d50f71192b150c106017bc5d02de7409d70b388b3e8a31e52e48c0ba",
+    "published_sha256": "fb73d799d50f71192b150c106017bc5d02de7409d70b388b3e8a31e52e48c0ba",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/question_rules_v23/build_question_decisions_v23.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/question_rules_v23/build_question_decisions_v23.py",
+    "original_sha256": "a72b78d8041b70b0be82d4e0e5cf14fe5a415cacbfffe202baee31222cb7183e",
+    "published_sha256": "a72b78d8041b70b0be82d4e0e5cf14fe5a415cacbfffe202baee31222cb7183e",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/question_rules_v23/question_interval_audit_v23.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/question_rules_v23/question_interval_audit_v23.py",
+    "original_sha256": "98ecb8558aacee4cae03e5fb0112ae5278e48b0ad1657964223e59b77feed97f",
+    "published_sha256": "98ecb8558aacee4cae03e5fb0112ae5278e48b0ad1657964223e59b77feed97f",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/build_decision_information_v10.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/build_decision_information_v10.py",
+    "original_sha256": "9c4914b16ff6666e87607cc534132ab145a64d5f8e29a4c58a1cb95765027193",
+    "published_sha256": "9c4914b16ff6666e87607cc534132ab145a64d5f8e29a4c58a1cb95765027193",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/build_panel_revision_v9.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/build_panel_revision_v9.py",
+    "original_sha256": "93a52d05c1cb4271778bbaa86a3dbc3b4f29ae8574a5221187e61006ee895fe6",
+    "published_sha256": "93a52d05c1cb4271778bbaa86a3dbc3b4f29ae8574a5221187e61006ee895fe6",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/build_verification_extension_v21.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/build_verification_extension_v21.py",
+    "original_sha256": "be53e3d16a814e1a1725fc4af5a09b06287663ee1caa5fc7299a41cb54dbead9",
+    "published_sha256": "be53e3d16a814e1a1725fc4af5a09b06287663ee1caa5fc7299a41cb54dbead9",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/calculate_priority_diagnostics_v9.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/calculate_priority_diagnostics_v9.py",
+    "original_sha256": "455b303de810e7df5f9d9ce81ea36da983e5ba31c188bacaec6eaef5ad0ed1e8",
+    "published_sha256": "455b303de810e7df5f9d9ce81ea36da983e5ba31c188bacaec6eaef5ad0ed1e8",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/decision_repair_information_v10.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/decision_repair_information_v10.py",
+    "original_sha256": "08d844d19b42c6b322dacc46a6bd92d36e210f1c2d336de2815da1a8dd1bab44",
+    "published_sha256": "08d844d19b42c6b322dacc46a6bd92d36e210f1c2d336de2815da1a8dd1bab44",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/depth_panels_v31.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/depth_panels_v31.py",
+    "original_sha256": "014a9491e105b78d7a92f5f4213bad3b64b8525d09d5e1f67ac16d8774a0f2bd",
+    "published_sha256": "014a9491e105b78d7a92f5f4213bad3b64b8525d09d5e1f67ac16d8774a0f2bd",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/external_source_challenge_v36.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/external_source_challenge_v36.py",
+    "original_sha256": "3d7fd8be23639ea14befde4e86c55ec06f013270ac5cd69e604e4cbbd0f17ef2",
+    "published_sha256": "3d7fd8be23639ea14befde4e86c55ec06f013270ac5cd69e604e4cbbd0f17ef2",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/external_source_challenge_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/external_source_challenge_v37.py",
+    "original_sha256": "4e51435dff578e46aed1aee52daf0e03f1c4e70ed48bb80f0e1501432b0358bb",
+    "published_sha256": "4e51435dff578e46aed1aee52daf0e03f1c4e70ed48bb80f0e1501432b0358bb",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/final_diagnostic_audit_v19.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/final_diagnostic_audit_v19.py",
+    "original_sha256": "47ac91ee0935d8ac16bbb43f73fbcf306219dd1bd554449e67b2f94830b7abbd",
+    "published_sha256": "47ac91ee0935d8ac16bbb43f73fbcf306219dd1bd554449e67b2f94830b7abbd",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/israel_agriculture_official_source_audit_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/israel_agriculture_official_source_audit_v37.py",
+    "original_sha256": "a694f1372606ce216fa05cc94ec462de787c2fe57561614a43fb14ec17c5f7f1",
+    "published_sha256": "a694f1372606ce216fa05cc94ec462de787c2fe57561614a43fb14ec17c5f7f1",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/paired_concentration_v27.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/paired_concentration_v27.py",
+    "original_sha256": "9f149013150b323dc4d8f8206a6995b1be99464756e75016a6b7b5ba106580d7",
+    "published_sha256": "9f149013150b323dc4d8f8206a6995b1be99464756e75016a6b7b5ba106580d7",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/portable_replay_v19.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/portable_replay_v19.py",
+    "original_sha256": "555a96f1fce1e36e00e0fa58d66c3e790758f0152b76ff7d4e2aa73d17593e80",
+    "published_sha256": "555a96f1fce1e36e00e0fa58d66c3e790758f0152b76ff7d4e2aa73d17593e80",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/portable_replay_v27.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/portable_replay_v27.py",
+    "original_sha256": "ee54a70e31544af864bdb628c366149c519db04f976512bb5a2ebec084b35463",
+    "published_sha256": "ee54a70e31544af864bdb628c366149c519db04f976512bb5a2ebec084b35463",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/quantitative_panels_v30.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/quantitative_panels_v30.py",
+    "original_sha256": "ea329820a949e4e360601caae8d876f8cf2c62dcc8f6233bcd8213b7b60887fc",
+    "published_sha256": "ea329820a949e4e360601caae8d876f8cf2c62dcc8f6233bcd8213b7b60887fc",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/replay_current_figures_v27.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/replay_current_figures_v27.py",
+    "original_sha256": "d02faa94222499328f87504865c59f257d2f2e73c0d14bf09b4838f85bc04d6a",
+    "published_sha256": "d02faa94222499328f87504865c59f257d2f2e73c0d14bf09b4838f85bc04d6a",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/replay_figures_v30.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/replay_figures_v30.py",
+    "original_sha256": "1a0af605c6de79ecc7fa4122392230cc2ddde8f531290833c805ecf181aabcc7",
+    "published_sha256": "1a0af605c6de79ecc7fa4122392230cc2ddde8f531290833c805ecf181aabcc7",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/replay_figures_v31.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/replay_figures_v31.py",
+    "original_sha256": "49fbf82c14f9773d86739690e74bf2fc326c5e9cd287c71e8303587285f3e8b3",
+    "published_sha256": "49fbf82c14f9773d86739690e74bf2fc326c5e9cd287c71e8303587285f3e8b3",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/replay_figures_v35.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/replay_figures_v35.py",
+    "original_sha256": "07db7710eea8a1a80e85b8fd0acd6eacb5e53ffc9bfb6d839bb18a0bbc1202f3",
+    "published_sha256": "07db7710eea8a1a80e85b8fd0acd6eacb5e53ffc9bfb6d839bb18a0bbc1202f3",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/replay_figures_v36.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/replay_figures_v36.py",
+    "original_sha256": "cd07a1fdaa6e77b52ef68b4528ec99d204eaf6b422097af75ccaf2990303a515",
+    "published_sha256": "cd07a1fdaa6e77b52ef68b4528ec99d204eaf6b422097af75ccaf2990303a515",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/replay_figures_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/replay_figures_v37.py",
+    "original_sha256": "3eaa5ffede455288a3bf4681d84346cf48948ed61f740c11f941db3cca0022f2",
+    "published_sha256": "3eaa5ffede455288a3bf4681d84346cf48948ed61f740c11f941db3cca0022f2",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/source_semantics_ten_v30.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/source_semantics_ten_v30.py",
+    "original_sha256": "83524d7b1e6f82f325a0e97f865b92b141d5c66d86e051af2834a7d4e1c204ca",
+    "published_sha256": "83524d7b1e6f82f325a0e97f865b92b141d5c66d86e051af2834a7d4e1c204ca",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/source_stability_panels_v35.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/source_stability_panels_v35.py",
+    "original_sha256": "e838dfac421691d9a7463fb416cd057c73709a943328dfdb36843e0f2fa380d0",
+    "published_sha256": "e838dfac421691d9a7463fb416cd057c73709a943328dfdb36843e0f2fa380d0",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/source_stability_panels_v36.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/source_stability_panels_v36.py",
+    "original_sha256": "152c2395170d81f323a4113bed62cd012e5b03c19ff79f97afce8d2febc07b89",
+    "published_sha256": "152c2395170d81f323a4113bed62cd012e5b03c19ff79f97afce8d2febc07b89",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/reproduction_code/who_california_source_admission_audit_v37.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/reproduction_code/who_california_source_admission_audit_v37.py",
+    "original_sha256": "972b1c5d0a88e0625ae4874aeae65470cfd40ca5b11a378361e4497b5c0daad6",
+    "published_sha256": "972b1c5d0a88e0625ae4874aeae65470cfd40ca5b11a378361e4497b5c0daad6",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_reassessment/check_endpoint_domains_v26.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_reassessment/check_endpoint_domains_v26.py",
+    "original_sha256": "32717790185b55c529c22bc2c5ef93f59f7083ff803a0b5024c560fd8b7a2db5",
+    "published_sha256": "32717790185b55c529c22bc2c5ef93f59f7083ff803a0b5024c560fd8b7a2db5",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_reassessment/finalize_tds_v26.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_reassessment/finalize_tds_v26.py",
+    "original_sha256": "598555294aea9e7d61c9ab97fac90f19a45e9a7e1df3bbe86f6a9db8be7f344b",
+    "published_sha256": "598555294aea9e7d61c9ab97fac90f19a45e9a7e1df3bbe86f6a9db8be7f344b",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_reassessment/reassess_tds_semantics_v26.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_reassessment/reassess_tds_semantics_v26.py",
+    "original_sha256": "591d435c1f810112a76d2e9c0313ce999edb1085655e61cd19d8140a645d27e5",
+    "published_sha256": "d917b688845df07fa3db8b576e168a8026d7a82f830f4bff3bdf89159e06337e",
+    "path_redaction_only": true
+  },
+  {
+    "published_path": "archived_code/source_reassessment/tds_eight_panel_v26.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_reassessment/tds_eight_panel_v26.py",
+    "original_sha256": "505f98888944dba9ecf41da51c08562309982d046f992c82e0ba71e9568fd3c6",
+    "published_sha256": "505f98888944dba9ecf41da51c08562309982d046f992c82e0ba71e9568fd3c6",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_reassessment/verify_tds_reassessment_v26.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_reassessment/verify_tds_reassessment_v26.py",
+    "original_sha256": "58ce163879d30f017461b482f9ab8d37ef9d0f213105b1613ef956d56084151b",
+    "published_sha256": "58ce163879d30f017461b482f9ab8d37ef9d0f213105b1613ef956d56084151b",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_stability_v35/audit_database_opportunities_20261015.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_stability_v35/audit_database_opportunities_20261015.py",
+    "original_sha256": "7b8a74c39df4aaa2900b83fca0f2743eff04b1083b538bf56f9cc9613aafd843",
+    "published_sha256": "7b8a74c39df4aaa2900b83fca0f2743eff04b1083b538bf56f9cc9613aafd843",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_stability_v35/nz_source_stability_v35.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_stability_v35/nz_source_stability_v35.py",
+    "original_sha256": "60dcb4402b442773742ef1e6c11db4b871c6ba13ac539382128d10ac3e0681d3",
+    "published_sha256": "60dcb4402b442773742ef1e6c11db4b871c6ba13ac539382128d10ac3e0681d3",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_stability_v35/pdp/production_script_at_run.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_stability_v35/pdp/production_script_at_run.py",
+    "original_sha256": "1bc5a4fabcbd6c2f4ca2ced1c17283d2a18dbafa9981a3d2aa11438fe0c6f0a8",
+    "published_sha256": "1bc5a4fabcbd6c2f4ca2ced1c17283d2a18dbafa9981a3d2aa11438fe0c6f0a8",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_stability_v35/pdp/supporting_source_profiles.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_stability_v35/pdp/supporting_source_profiles.py",
+    "original_sha256": "5cdef54e48588b427505b0016a25f8893a6e1ae0d308e7e38b20edae27db52ad",
+    "published_sha256": "5cdef54e48588b427505b0016a25f8893a6e1ae0d308e7e38b20edae27db52ad",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_stability_v35/pdp_temporal_comparability_v35.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_stability_v35/pdp_temporal_comparability_v35.py",
+    "original_sha256": "96aacf469fc4616e5a7c64c036990fbff92744abd33fa322459e97f0489cf06a",
+    "published_sha256": "96aacf469fc4616e5a7c64c036990fbff92744abd33fa322459e97f0489cf06a",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_stability_v35/verify_database_opportunities_20261015.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_stability_v35/verify_database_opportunities_20261015.py",
+    "original_sha256": "ca3a83d18845f52016c947831de867187503b537db2546556fe737c7b8cadedf",
+    "published_sha256": "ca3a83d18845f52016c947831de867187503b537db2546556fe737c7b8cadedf",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_transport_v28/fda_transport_profile_v28.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_transport_v28/fda_transport_profile_v28.py",
+    "original_sha256": "609f8829f632b55e2f528184e3c08abc3643454afa4fc2484e5b890d0a55a7e7",
+    "published_sha256": "609f8829f632b55e2f528184e3c08abc3643454afa4fc2484e5b890d0a55a7e7",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/source_transport_v28/fda_transport_verify_openpyxl_v28.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_transport_v28/fda_transport_verify_openpyxl_v28.py",
+    "original_sha256": "504636e965ccd17235b0524e0a31f4213a52d57b24b54947991e1ea52152df46",
+    "published_sha256": "484d21260d399263055b59219ef1958fc96be70d1b290e0971fa851a4bc00e92",
+    "path_redaction_only": true
+  },
+  {
+    "published_path": "archived_code/source_transport_v28/freeze_transport_challenge_v28.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/source_transport_v28/freeze_transport_challenge_v28.py",
+    "original_sha256": "83cf05c8d9ad12c016cd87de2e9be8a02f074cb7253af49ca2d5d17aa9aecfaf",
+    "published_sha256": "83cf05c8d9ad12c016cd87de2e9be8a02f074cb7253af49ca2d5d17aa9aecfaf",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/tds_source_challenge/tds_semantics_challenge_20261013.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/tds_source_challenge/tds_semantics_challenge_20261013.py",
+    "original_sha256": "b7097da127814a7b69f27f1e11fb8d56e4931e9c393a17cbfa4e535fb667527e",
+    "published_sha256": "f77d87ee628f04b91eae821fb7c3a2c92d2c3ede7de5892ffbeb4ccc569d7872",
+    "path_redaction_only": true
+  },
+  {
+    "published_path": "archived_code/tds_source_challenge/tds_semantics_figure_v25.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/tds_source_challenge/tds_semantics_figure_v25.py",
+    "original_sha256": "58273d000e384fdcf1aaad4f067862a59276fa22fddce94a18af57ac5024b3d9",
+    "published_sha256": "58273d000e384fdcf1aaad4f067862a59276fa22fddce94a18af57ac5024b3d9",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/tds_source_challenge/verify_tds_semantics_xml_20261013.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/tds_source_challenge/verify_tds_semantics_xml_20261013.py",
+    "original_sha256": "1df33114c6a0a42c93b66db0ef02b75da527ee8b4708d5dd8e99cc3d015be297",
+    "published_sha256": "1df33114c6a0a42c93b66db0ef02b75da527ee8b4708d5dd8e99cc3d015be297",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/verification_extension/controlled_evidence_cases_v21.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/verification_extension/controlled_evidence_cases_v21.py",
+    "original_sha256": "6af043d467738486fc002a70d74d540dd5d66bc9a9cf02d52b71c6647c969987",
+    "published_sha256": "6af043d467738486fc002a70d74d540dd5d66bc9a9cf02d52b71c6647c969987",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/verification_extension/controlled_numeric_cases_v21.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/verification_extension/controlled_numeric_cases_v21.py",
+    "original_sha256": "323517c201541c7e7870af04e164fa52428a5bed0441fe8792c8e2273ecfb7db",
+    "published_sha256": "323517c201541c7e7870af04e164fa52428a5bed0441fe8792c8e2273ecfb7db",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "archived_code/verification_extension/verify_evidence_extension_v21.py",
+    "source_path": "10_submission/最终投稿材料_v42_精简表格与紧凑图版_文件夹/03_可复现数据与代码_NOT_DIRECT_UPLOAD/verification_extension/verify_evidence_extension_v21.py",
+    "original_sha256": "281a2171cebd10d8b2f950fb8b75de261106f71ef9af67d3f492a5f5702a17d4",
+    "published_sha256": "281a2171cebd10d8b2f950fb8b75de261106f71ef9af67d3f492a5f5702a17d4",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/build_chronic_analysis_package.py",
+    "source_path": "05_code/quality_control/build_chronic_analysis_package.py",
+    "original_sha256": "4cd217e93a1ddc066be498e9441a815f8b9d2cfada72e48c1daf2246ff42042b",
+    "published_sha256": "4cd217e93a1ddc066be498e9441a815f8b9d2cfada72e48c1daf2246ff42042b",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/build_remaining_exact_primo_inputs.py",
+    "source_path": "05_code/quality_control/build_remaining_exact_primo_inputs.py",
+    "original_sha256": "98b66c5355022aba1fd3cc00d88a7f6f05f1c8d48b0ce03d2013d1df8e33cfc9",
+    "published_sha256": "98b66c5355022aba1fd3cc00d88a7f6f05f1c8d48b0ce03d2013d1df8e33cfc9",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/qc_all_scientific_primo_runs.py",
+    "source_path": "05_code/quality_control/qc_all_scientific_primo_runs.py",
+    "original_sha256": "29ee3afee54c57f2d3a4c2df87dad707f70f1bb9a3c9791e34c62024bcb9b02b",
+    "published_sha256": "29ee3afee54c57f2d3a4c2df87dad707f70f1bb9a3c9791e34c62024bcb9b02b",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/qc_scientific_primo_pair.py",
+    "source_path": "05_code/quality_control/qc_scientific_primo_pair.py",
+    "original_sha256": "d8545be66da840df3a852c2191f40ecedac8693d5d444b2c795d7096c3080c3e",
+    "published_sha256": "d8545be66da840df3a852c2191f40ecedac8693d5d444b2c795d7096c3080c3e",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/build_efsa_scientific_exposure_admission.py",
+    "source_path": "05_code/quality_control/build_efsa_scientific_exposure_admission.py",
+    "original_sha256": "10964f64652e092569168157782ee23479dacab8470e83552014c91d2930a7bd",
+    "published_sha256": "10964f64652e092569168157782ee23479dacab8470e83552014c91d2930a7bd",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/reassess_262_current_admission.py",
+    "source_path": "05_code/quality_control/reassess_262_current_admission.py",
+    "original_sha256": "f5982bb89f652aea7d7773b175759ab0a32ca4c14e41473e617475ebde8b31ae",
+    "published_sha256": "f5982bb89f652aea7d7773b175759ab0a32ca4c14e41473e617475ebde8b31ae",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/build_efsa_observed_cell_admission.py",
+    "source_path": "05_code/quality_control/build_efsa_observed_cell_admission.py",
+    "original_sha256": "0808abac36386c19fa76ca1a3b94b576a752ceacb2c7932bc71a955677201334",
+    "published_sha256": "0808abac36386c19fa76ca1a3b94b576a752ceacb2c7932bc71a955677201334",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/build_efsa_diet_linkage_admission.py",
+    "source_path": "05_code/quality_control/build_efsa_diet_linkage_admission.py",
+    "original_sha256": "59223fa74ae3d977d0a5b549b2874a95ec2aaa9ac906e311aecb5714e14d9a37",
+    "published_sha256": "59223fa74ae3d977d0a5b549b2874a95ec2aaa9ac906e311aecb5714e14d9a37",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/build_primo_source_audit.py",
+    "source_path": "05_code/quality_control/build_primo_source_audit.py",
+    "original_sha256": "4741596603c6551c1199c7dbbb6eadbc901e74bbbfd9a0170a73930deb60689a",
+    "published_sha256": "4741596603c6551c1199c7dbbb6eadbc901e74bbbfd9a0170a73930deb60689a",
+    "path_redaction_only": false
+  },
+  {
+    "published_path": "05_code/quality_control/verify_primo_repaired_export.py",
+    "source_path": "05_code/quality_control/verify_primo_repaired_export.py",
+    "original_sha256": "35ba2e25c69914dd7572bf29057ffcf72b3f62f43b7aabbde9d3e0bcf2c6fdc8",
+    "published_sha256": "4dae6eadcfadaf0756250f795358a9138dc44729fb4acb23d2486c38087ed2b4",
+    "path_redaction_only": true
+  }
+]

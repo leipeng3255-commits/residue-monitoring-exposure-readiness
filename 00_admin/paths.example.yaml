@@ -1,0 +1,6 @@
+project_root: "/path/to/project"
+data_root: "/path/to/data_root"
+raw_data_root: "/path/to/raw_data_root"
+intermediate_data_root: "/path/to/intermediate_data_root"
+processed_data_root: "/path/to/processed_data_root"
+outputs_root: "/path/to/outputs_root"
