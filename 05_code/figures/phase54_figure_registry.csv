@@ -1,0 +1,8 @@
+Figure,Panel,Previous mapping,Evidence source,Interpretation
+S4,A,S4A,figure_field_availability.csv,Ten purposively selected source families; levels C/D are not national rankings
+S4,B,S4B WHO,panel_b_structure_scale.csv,Three WHO analytical-row record types; not people
+S4,C,S4C,panel_c_california_annual_structure.csv,Three incomparable annual California structural counts; not prevalence
+S4,D,"S4B Israel, with year-specific frozen source summary",tomato_reporting_summary.csv,"Published crop–active-substance rows, 2019–2025; not sample-level trends"
+S5,A,S4D,panel_d_arithmetic_reproducibility.csv,"120 printed; 130 reconstructed by audit, not official correction"
+S5,B,S4E,panel_d_arithmetic_reproducibility.csv,"147 feasible, 7 inconsistent, 4 incomplete of 158"
+S5,C,S4F,panel_d_arithmetic_reproducibility.csv,23 reproduced of 25 printed annual identities; not laboratory errors
