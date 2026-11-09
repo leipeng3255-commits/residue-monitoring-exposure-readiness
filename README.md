@@ -28,6 +28,8 @@ The code is public. Raw monitoring files, dietary microdata, authenticated downl
 
 ## Scientific scope
 
+The current 44-panel provenance index is `05_code/figures/current_44_panel_registry.csv`. It combines the historical v38 source registry for 37 panels with the current S4/S5 source receipts for seven panels. Current SVG hashes are recorded separately from historical source receipts; inclusion does not assert that every panel was independently rerun or that all third-party inputs may be redistributed.
+
 The manuscript evaluates question-specific analytical and dietary compatibility. Censoring intervals are not confidence intervals. Unanalysed records are not non-detections. The saved PRIMo subset is not a global population exposure estimate. Controlled computational cases and simulations, where referenced in historical scripts, are not observations from human assessors. No disease-burden calculation is included in this release.
 
 ## Software
