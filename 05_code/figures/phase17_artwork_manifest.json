@@ -1,0 +1,28 @@
+{
+  "method": "presentation-only PDF/SVG finalization",
+  "source_files": {
+    "06_Figure_1.pdf": "721add5057b147a52a82576d0554257b74a718ce397f51e22826df430e20b601",
+    "09_Figure_4.pdf": "86b56a0f135a22ae199ef8e438fb7878dd11cf16ab1c2bbf48e5465b5404bf3f",
+    "Environmental_Research_Supplementary_Information_v51_WORKING.docx": "f7092adfac5671ee037ddd9d5006776cf972bcad41286582d85a60271f2cf79d"
+  },
+  "outputs": {
+    "Figure_1_Legend_Repaired.pdf": "67d22add89ff0afe37e189987c2137324b23425953575142b9ebf3deb45df669",
+    "Figure_4_Legend_Repaired.pdf": "9b1b5409674e1190db67b4cacae14c823b4b7552b897d6b71c4f5611f7598d84",
+    "Figure_S1.pdf": "5a526c63d6c6c0870096d67a7d0ccd3e202a434a6def5e1e14bf00bab3ea9788",
+    "Figure_S1.png": "32ac4624f5ea5fd6cbe9f6a5bbc7737b681cd8da1e7c0d9eca03f6c4d3000052",
+    "Figure_S1.svg": "62d05ba1842e78a79b8cd5f956c741cf333c98b5ec863a783d5a039fac5d3636",
+    "Figure_S2.pdf": "e2305306c5bead4aad0e15702641718500a7edc0cf8e268c2478cbd9543d6c17",
+    "Figure_S2.png": "737b8ec5b2af5924f23e9161db0136c032819b579a9c7554a1f426c5a7af0ede",
+    "Figure_S2.svg": "b583771dc4edef70bfdde7fcc988d9a729dcdc0ea7e7568ac564486198e98f8d",
+    "Figure_S3.pdf": "a382a2b28677d227de7975f45081c3c2c9fcda1dd5d524f463eee933dbb782ba",
+    "Figure_S3.png": "faad256d61ea5c351b9fd120361e6fb07421cf6320921fbe4fd95e45666c8c14",
+    "Figure_S3.svg": "ba11180da774ed80f9d6c3b855e639db7f2f365bf66665ff74cf829d063c4ea2",
+    "Figure_S4.pdf": "758bfd47048b22b633a4f10d51a925d4b8f55a4af27b828f39deaa2c1b09f771",
+    "Figure_S4.png": "adc62fe463abe1c72a901b4c5a02c7964992569c17250c816c3437ed63f5bb39",
+    "Figure_S4.svg": "8776530750046483bdda34a58acdb92aa430631c2d28fa57dbd9f98cedb59cc1",
+    "Figure_S5.pdf": "d90c64fa8e742049afbc9d6b9bb7b89848fce06e1157ebd64f6fcd592b64552e",
+    "Figure_S5.png": "25af86f0a1db31e6ed497d4a614eddf226bd31b6c4a8993a2508572d408ce3e0",
+    "Figure_S5.svg": "f9fa880de02239fd17e611a1b855dccb07d12641eb53ddc8b2d404680896af70"
+  },
+  "scientific_data_changed": false
+}

@@ -1,0 +1,5 @@
+# Versions observed in the Phase 19 artwork-preparation environment.
+# These do not claim to describe every historical analysis environment.
+PyMuPDF==1.26.7
+lxml==6.1.1
+CairoSVG==2.8.2
