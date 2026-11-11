@@ -1,6 +1,6 @@
 # Residue monitoring and dietary exposure readiness
 
-Code accompanying **Dietary exposure assessment using pesticide monitoring data: analytical coverage, censoring and dietary compatibility**.
+Code accompanying **Question-specific qualification of pesticide monitoring data for dietary exposure assessment: analytical coverage, censoring and dietary compatibility**.
 
 This repository contains the analysis, checking and figure-generation code for the parent manuscript. The animal-food, plant-trade and network-toxicology projects are separate and are not included.
 
@@ -10,6 +10,8 @@ This repository contains the analysis, checking and figure-generation code for t
 - `archived_code/`: versioned scientific scripts from the frozen author package; directory names retain the original revision lineage.
 - `verify_saved_results.py`: standalone arithmetic and denominator checks using saved derived tables.
 - `CODE_PROVENANCE.json`: original and public-copy SHA256 hashes. Local home/external-drive prefixes were replaced by neutral placeholders; scientific expressions were retained.
+- - `05_code/figures/phase17_finalize_submission_artwork.py`: presentation-only finalization of Figure 1F and Figure 4E and extraction of supplementary figures S1–S5.
+- `05_code/figures/phase17_artwork_reproducibility.md`: input requirements, execution instructions and validation scope.
 
 ## Reproduction levels
 
@@ -39,3 +41,4 @@ The standalone checker uses the Python standard library (Python >=3.10). Histori
 ## Rights and status
 
 The repository makes the authors' code available for inspection. No additional software licence has been selected; third-party code and data retain their own rights. This release is not a statement of journal submission or acceptance. Please cite the manuscript and the specific repository commit used.
+
