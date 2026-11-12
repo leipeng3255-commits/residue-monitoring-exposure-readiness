@@ -12,6 +12,8 @@ This repository contains the analysis, checking and figure-generation code for t
 - `CODE_PROVENANCE.json`: original and public-copy SHA256 hashes. Local home/external-drive prefixes were replaced by neutral placeholders; scientific expressions were retained.
 - - `05_code/figures/phase17_finalize_submission_artwork.py`: presentation-only finalization of Figure 1F and Figure 4E and extraction of supplementary figures S1–S5.
 - `05_code/figures/phase17_artwork_reproducibility.md`: input requirements, execution instructions and validation scope.
+- `05_code/figures/phase24_release_artifacts.py`: verifies the nine author-approved canonical SVG files against SHA256/size records and validates final PDF/SI release rendering; this is artifact fidelity, **not** independent PDF-to-SVG reconstruction.
+- `05_code/figures/phase24_final_svg/` and `05_code/figures/phase26_release_reproducibility.md`: nine approved editable vector sources and their provenance/validation limitations.
 
 ## Reproduction levels
 

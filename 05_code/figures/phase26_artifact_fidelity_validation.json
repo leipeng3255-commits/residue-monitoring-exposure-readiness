@@ -1,0 +1,159 @@
+{
+  "validation_scope": "canonical approved artifact fidelity, not independent scientific validation",
+  "independent_pdf_to_svg_byte_reproduction": false,
+  "all_9_svg_release_artifacts_byte_identical": true,
+  "all_9_pdf_pixels_identical": true,
+  "all_17_si_page_pixels_identical": true,
+  "svg_checks": {
+    "Figure_1": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "2188a3975f69fd6ebd5d29a7179e3849e8f9a38e64eb84b82dd1474ad104d859",
+      "bytes": 491868
+    },
+    "Figure_2": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "307718a39ce2108f7853d72527fe884ae332dd93c40a07ccfecb2db3d03638f8",
+      "bytes": 239335
+    },
+    "Figure_3": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "fd2cc06d6f6b2cb904dba6d62654d4ed94b252e79b46cc95fabfda84cce842bc",
+      "bytes": 3535737
+    },
+    "Figure_4": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "417f0f2c260e559d6b2e9e221c9b85e4330885bbca97cf2c16ba43de318e943b",
+      "bytes": 881438
+    },
+    "Figure_S1": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "ada024d3ec845b820ff3f784b9701e536b6d026eec72698425c5b9e73deaea0e",
+      "bytes": 451697
+    },
+    "Figure_S2": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "e486c730a19a22e2b1159cc9f1c754ac4b4828b9045cdb4988158824f4ffe7fd",
+      "bytes": 94867
+    },
+    "Figure_S3": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "b53704fc35b541ec122a80cfcfbea440ef21fc8c8ddf5067369f9de86bd71fe5",
+      "bytes": 233052
+    },
+    "Figure_S4": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "006e2c38c3046b2041a72cc343f19158c2153af4d6c770627e1b83172436e76e",
+      "bytes": 1390943
+    },
+    "Figure_S5": {
+      "canonical_matches_manifest": true,
+      "submitted_matches_manifest": true,
+      "output_matches_manifest": true,
+      "output_matches_canonical_and_submitted": true,
+      "sha256": "dfdb9c743e7665dd13f496880c55544010f3189af5b847e892d9d8b2ad6647bc",
+      "bytes": 228152
+    }
+  },
+  "pdf_checks": {
+    "Figure_1": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "canonical_svg_render"
+    },
+    "Figure_2": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "source_pdf_copy"
+    },
+    "Figure_3": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "source_pdf_copy"
+    },
+    "Figure_4": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "source_pdf_copy"
+    },
+    "Figure_S1": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "canonical_svg_render"
+    },
+    "Figure_S2": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "source_pdf_copy"
+    },
+    "Figure_S3": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "canonical_svg_render"
+    },
+    "Figure_S4": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "source_pdf_copy"
+    },
+    "Figure_S5": {
+      "pages": 1,
+      "pixels_identical_2x": true,
+      "method": "source_pdf_copy"
+    }
+  },
+  "si_page_pixels_identical_1_5x": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "scientific_values_recalculated": false,
+  "all_checks_pass": true,
+  "failures": [],
+  "validation_date": "2026-11-12",
+  "execution_environment": {
+    "platform": "Linux arm64 isolated container",
+    "python": "3.12",
+    "PyMuPDF": "1.26.7",
+    "CairoSVG": "2.8.2",
+    "font_substitution": "Arimo for Arial"
+  },
+  "provenance_note": "Phase 26 script reconstructed from the provided instruction and approved package because the referenced Phase 26 patch ZIP was not located."
+}

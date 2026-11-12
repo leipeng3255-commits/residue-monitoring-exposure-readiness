@@ -1,0 +1,83 @@
+{
+  "purpose": "SHA-256 for exact files in final journal submission bundle (author-approved Phase24)",
+  "assets": {
+    "Figure_1.svg": {
+      "sha256": "2188a3975f69fd6ebd5d29a7179e3849e8f9a38e64eb84b82dd1474ad104d859",
+      "bytes": 491868
+    },
+    "Figure_1.pdf": {
+      "sha256": "3f41ec10edb18005a7612dad807840cf8c090358ee73433c00e399be04aaafff",
+      "bytes": 210755
+    },
+    "Figure_2.svg": {
+      "sha256": "307718a39ce2108f7853d72527fe884ae332dd93c40a07ccfecb2db3d03638f8",
+      "bytes": 239335
+    },
+    "Figure_2.pdf": {
+      "sha256": "ce6eb50f16f3348ec3f2ce775458388aed06f76e50ceb0c5550c0ef5275254d4",
+      "bytes": 83216
+    },
+    "Figure_3.svg": {
+      "sha256": "fd2cc06d6f6b2cb904dba6d62654d4ed94b252e79b46cc95fabfda84cce842bc",
+      "bytes": 3535737
+    },
+    "Figure_3.pdf": {
+      "sha256": "1dfb894573a819b7836f34b9e31a6f9b26b96c5f261949d3a3eefbd261396e64",
+      "bytes": 4663987
+    },
+    "Figure_4.svg": {
+      "sha256": "417f0f2c260e559d6b2e9e221c9b85e4330885bbca97cf2c16ba43de318e943b",
+      "bytes": 881438
+    },
+    "Figure_4.pdf": {
+      "sha256": "7bf7e95dab3655d4a77b6f95f5396c40ff57b6b98fe37e24c9c06d7c94f2290f",
+      "bytes": 794552
+    },
+    "Figure_S1.svg": {
+      "sha256": "ada024d3ec845b820ff3f784b9701e536b6d026eec72698425c5b9e73deaea0e",
+      "bytes": 451697
+    },
+    "Figure_S1.pdf": {
+      "sha256": "882e992f0a2eec6705b82ab3bcf3efedbb8c693d9964e175a9ecd9b7c1ff3894",
+      "bytes": 171113
+    },
+    "Figure_S2.svg": {
+      "sha256": "e486c730a19a22e2b1159cc9f1c754ac4b4828b9045cdb4988158824f4ffe7fd",
+      "bytes": 94867
+    },
+    "Figure_S2.pdf": {
+      "sha256": "bc443790bf1d9a9ae11241ee73075784d9bb68cc6a92f5bdba5cc15cb516a8cd",
+      "bytes": 41968
+    },
+    "Figure_S3.svg": {
+      "sha256": "b53704fc35b541ec122a80cfcfbea440ef21fc8c8ddf5067369f9de86bd71fe5",
+      "bytes": 233052
+    },
+    "Figure_S3.pdf": {
+      "sha256": "a0f6a955b55287fe0ee86f38fb711082d8d2e759ef8403385728941de2d72ec4",
+      "bytes": 172574
+    },
+    "Figure_S4.svg": {
+      "sha256": "006e2c38c3046b2041a72cc343f19158c2153af4d6c770627e1b83172436e76e",
+      "bytes": 1390943
+    },
+    "Figure_S4.pdf": {
+      "sha256": "dcfadfe442dcf60dd30537e4c0452f42e1fa178f743837ffd4008808696a9612",
+      "bytes": 245370
+    },
+    "Figure_S5.svg": {
+      "sha256": "dfdb9c743e7665dd13f496880c55544010f3189af5b847e892d9d8b2ad6647bc",
+      "bytes": 228152
+    },
+    "Figure_S5.pdf": {
+      "sha256": "b30042e18b28e52c6f610655493b5103e2959c34f043ea4506f7fdb8609f2b37",
+      "bytes": 64400
+    },
+    "Supplementary_Information_Complete_17pages_NoBoxPanelLegends.pdf": {
+      "sha256": "8bdcb1fe1e9e4450495c74816fcc21f44a6a4a8117b4b689e354cbbc7515b890",
+      "bytes": 545110
+    }
+  },
+  "source_status": "final SVG/PDF archive; numerical scientific data unchanged",
+  "reproduction_note": "The included script uses three canonical SVGs to reproduce all nine figure visuals pixel-for-pixel at 2x; PDF binary hashes can vary because of renderer metadata. The packaged approved PDFs are the exact submission artifacts."
+}
