@@ -1,2 +1,3 @@
+# Observed for Phase 26 artifact release only (not historical scientific pipeline)
 PyMuPDF==1.26.7
 CairoSVG==2.8.2
